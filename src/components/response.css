@@ -1,0 +1,35 @@
+#res {
+  background-color: aquamarine;
+  width: 50vw;
+  margin-left: auto;
+  margin-right: auto
+}
+
+#res h2 {
+  text-align: center;
+  margin-top: 0px
+}
+
+#res h3 {
+  text-align: right;
+  margin-bottom: 0px
+}
+
+#res .green {
+  color: #bc13fe;
+  font-size: 2em
+}
+
+#res ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#res li {
+  display: inline-block;
+  color: white;
+  background-color: teal;
+  padding: 5px;
+  margin: 5px
+}
